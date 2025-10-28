@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShoesShop</string>
+    <string name="thanksAct_text1">You can view your order history by going to the <b>My Account</b> page and by clicking on <b>History.</b></string>
+    <string name="thanksAct_text2">Or you can go to your <b>Email</b> to view your ordered items.</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="product_description_demo">STAN SMITH SHOES STAN SMITH, FOREVER. ALWAYS ICONIC. NOW MORE SUSTAINABLE. Timeless appeal. Effortless style. Everyday versatility. For over 50 years and counting, adidas Stan Smith Shoes have continued to hold their place as an icon. This pair shows off a fresh redesign as part of adidas commitment to use only recycled polyester by 2024. Plus, they have an outsole made from rubber waste add to the classic style. This product is made with Primegreen, a series of high-performance recycled materials. 50% of upper is recycled content. No virgin polyester.</string>
+    <string name="title_activity_edit_account">EditAccountActivity</string>
+</resources>
